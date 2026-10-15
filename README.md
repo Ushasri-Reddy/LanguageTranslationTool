@@ -73,4 +73,4 @@ This project was developed as a language translation tool for an Artificial Inte
 
 ## Author
 
-Add your name here.
+Jala Ushasri Reddy
